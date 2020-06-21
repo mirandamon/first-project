@@ -1,0 +1,38 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* Selector for a tag */
+h1 {
+  color: turquoise;
+  font-size: 48px;
+}
+
+/* Selector for a class most useful */
+.super-cool-class {
+  color: red;
+}
+
+/* Selector for an id */
+#some-id {
+}
+
+#asdfajsdfklasdf {
+  color: rgba(67, 135, 243, 0.691);
+  color: #09384f;
+  color: blue;
+}
+
+.box {
+  border: 1px solid black;
+  background: #09384f;
+
+  /* padding-left: 16px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  padding-right: 16px; */
+
+  padding: 32px 16px;
+  margin-top: -72px;
+  display: block;
+}
